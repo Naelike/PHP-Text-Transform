@@ -2,11 +2,11 @@
 
 PHP HTML แปลงภาษาอังกฤษตัวพิมพ์เล็ก ตัวพิมพ์ใหญ่ text-transform หรือ strtoupper, strtolower, ucfirst, ucwords
 
-#//	strtoupper();	พิมพ์ใหญ่ทั้งหมด คือ HELLO WORLD
-#//	strtolower();	พิมพ์เล็กทั้งหมด คือ hello world
-#//	ucfirst(); 		พิมพ์ใหญ่คำแรก คือ Hello world
-#//	ucwords(); 		พิมพ์ใหญ่ตัวแรงของทุกคำ คือ Hello World
-#//	mb_strtoupper(); พิมพ์ใหญ่ทั้งหมด คือ HELLO WORLD (Unicode)
+#//	strtoupper();	พิมพ์ใหญ่ทั้งหมด คือ HELLO WORLD NAELIKE <br>
+#//	strtolower();	พิมพ์เล็กทั้งหมด คือ hello world naelike <br>
+#//	ucfirst(); 		พิมพ์ใหญ่คำแรก คือ Hello world naelike <br>
+#//	ucwords(); 		พิมพ์ใหญ่ตัวแรงของทุกคำ คือ Hello World Naelike <br>
+#//	mb_strtoupper(); พิมพ์ใหญ่ทั้งหมด คือ HELLO WORLD NAELIKE (Unicode) <br>
 
 # JavaScript GET Service Example 
 ```
