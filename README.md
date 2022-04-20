@@ -8,7 +8,7 @@ PHP HTML แปลงภาษาอังกฤษตัวพิมพ์เ�
 #//	ucwords(); 		พิมพ์ใหญ่ตัวแรงของทุกคำ คือ Hello World Naelike <br>
 #//	mb_strtoupper(); พิมพ์ใหญ่ทั้งหมด คือ HELLO WORLD NAELIKE (Unicode) <br>
 
-# JavaScript GET Service Example 
+# PHP
 ```
 <?php 
   // texteng
